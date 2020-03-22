@@ -1,0 +1,1 @@
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans+TC|Ubuntu+Mono&display=swap);#app{font-family:Ubuntu Mono,monospace,Noto Sans TC,sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;text-align:center;color:#2c3e50}#nav{padding:30px}#nav a{font-weight:700;color:#2c3e50;margin:10px}#nav a.router-link-exact-active{color:#0cbaba}
